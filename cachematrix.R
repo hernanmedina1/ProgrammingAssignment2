@@ -1,5 +1,9 @@
 ## Programming Assignment 2
 ## Write closure to either calculate the inverse of a matrix, or get its inverse from the cache
+## The functions in this programming assignment are copies of examples provided in the R Programming
+## Course by Roger D. Peng., PhD, to calculate and cache the mean of a vector. I modified those 
+## examples to calculate and cache the inverse of a matrix, and deleted a function that was not 
+## needed for this exercise.
 
 ## makeCacheMatrix 
 ## This function creates a matrix object to cache the inverse of a matrix.
